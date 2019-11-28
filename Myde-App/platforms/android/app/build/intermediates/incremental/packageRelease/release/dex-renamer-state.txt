@@ -1,0 +1,4 @@
+#Fri Jun 21 09:44:21 PKT 2019
+base.0=C\:\\Users\\emine\\Desktop\\Projects - backup\\Myde Abaya\\Android\\Myde-App\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
